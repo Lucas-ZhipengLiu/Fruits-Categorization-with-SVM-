@@ -1,0 +1,8 @@
+﻿  MFC_本科毕业设计Dlg.cpp
+c:\apps\opencv3.2.0\opencv\build\include\opencv2\core\mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\apps\opencv3.2.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\apps\opencv3.2.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\apps\opencv3.2.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\apps\opencv3.2.0\opencv\build\include\opencv2\imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MFC_本科毕业设计.vcxproj -> C:\Users\12104\documents\visual studio 2017\Projects\MFC_本科毕业设计\x64\Debug\MFC_本科毕业设计.exe
+  MFC_本科毕业设计.vcxproj -> C:\Users\12104\documents\visual studio 2017\Projects\MFC_本科毕业设计\x64\Debug\MFC_本科毕业设计.pdb (Partial PDB)

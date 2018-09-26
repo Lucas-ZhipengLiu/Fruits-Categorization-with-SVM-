@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<Min type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>6</cols>
+  <dt>f</dt>
+  <data>
+    8.47100914e-02 2.14616016e-01 4.88459885e-01 4359. 3.24676178e+02
+    4.17200953e-01</data></Min>
+<Max type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>6</cols>
+  <dt>f</dt>
+  <data>
+    1.76192045e-01 3.69270682e-01 6.54167116e-01 33695. 9.99134094e+02
+    8.77408743e-01</data></Max>
+</opencv_storage>
