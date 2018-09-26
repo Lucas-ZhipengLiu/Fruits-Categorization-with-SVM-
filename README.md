@@ -1,2 +1,2 @@
-# Fruits-Categorization-with-SVM-
+# Fruits Categorization with SVM
 BSc project
