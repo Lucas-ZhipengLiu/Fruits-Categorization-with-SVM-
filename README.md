@@ -1,4 +1,4 @@
-# Muti-Fruit Categorization with a surport vector machine (SVM) classifier
+# Multi-fruit Categorization with a support vector machine (SVM) classifier
 
 **The classifier is trained by my dataset, which is able to distinguish six different fruits. They are apple, banana, kiwi, cherry, walnut, and orange. Also, an easy to use interactive interface is desgined. The BSc dissertation is available [here](https://github.com/Lucas-ZhipengLiu/Fruits-Categorization-with-SVM-/blob/master/%E5%88%98%E5%BF%97%E9%B9%8F-%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%BB%88%E7%A8%BF.pdf). Below is an overview of the project.**
 
@@ -26,4 +26,4 @@ Took 40 images for each kind of fruit (6*40=240 images in total), and calculated
 
 ## Interactive Interface 
 
-![alt text](https://github.com/Lucas-ZhipengLiu/Fruits-Categorization-with-SVM-/blob/master/Images/8.jpg)
+![alt text](https://github.com/Lucas-ZhipengLiu/Fruits-Categorization-with-SVM-/blob/master/Images/9.PNG)
