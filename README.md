@@ -27,4 +27,3 @@ Took 40 images for each kind of fruit (6*40=240 images in total), and calculated
 ## Interactive Interface 
 
 ![alt text](https://github.com/Lucas-ZhipengLiu/Fruits-Categorization-with-SVM-/blob/master/Images/10.PNG)
-
